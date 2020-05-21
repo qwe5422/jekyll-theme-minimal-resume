@@ -1,7 +1,7 @@
 # Site settings
-title: Mauricio Urraco
-description: Resume Website
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
+표제:박은석
+설명 : 자기소개서
+# baseurl : "/ particle"# 사이트의 하위 경로 (예 : / bl
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
