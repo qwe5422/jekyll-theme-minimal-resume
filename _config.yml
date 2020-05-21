@@ -1,16 +1,15 @@
 # Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
-# baseurl: "" # the subpath of your site, e.g. /blog
+제목 :자기소개서 
+설명  :자기소개서
+# baseurl : ""# 사이트의 하위 경로 (예 : / blog)
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
-user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
-user_title: Software Engineer
-email: mauriurraco@gmail.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
+username :박은석
+user_description : I \ 'ma nomad 소프트웨어 엔지니어, 항상 다음 도전을 찾고; 너무 무섭거나 어려운 일은 없습니다. 최근에 런던에 기반을 둔 스타트 업인 Radix에서 일하는 <b> crypto-world </ b>에 몰입하여 다음으로 확장 가능한 DLT를 만들려고 노력했습니다. 나는 모든 JS 관련 것들 뒤에있는 두 사람 중 하나입니다. 여기 내 블로그를 방문하십시오 <a href= "https://mauriciourraco.com" target= "_blank"> https : //mauriciourraco.com </a>
+user_title : 자기 소개서
+이메일   : dmstjr3248@gmail.com
+# github_username lorem_ipsum
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
